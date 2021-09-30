@@ -3,7 +3,7 @@ This is a demo app that allows users to add picture from their camera roll to a 
 The pictures are added with a picture frame, which is a 3D model brought in from echo3D.
 
 ## Register
-Don't have an API key? Make sure to register for FREE at [echo3D](https://console.echo3D.co/#/auth/register)
+Don't have an API key? Make sure to register for FREE at [echo3D](https://console.echo3D.co/#/auth/register).
 
 # Setup
 * Clone this project and open in Xcode 
